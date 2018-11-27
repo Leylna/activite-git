@@ -46,6 +46,7 @@ if (user_have_right()==false) {
 
        <P id="titre-booktik">BOOKTIK</P>
        <div id="container">
+         <!-- Affichage des icones pour rediriger vers les différentes pages de gestions des documents -->
         <div id="crud-section">
             <a href="auteurs/view/index.php" class="section">
                 <i class="fa fa-users fa-5x" aria-hidden="true"></i>
